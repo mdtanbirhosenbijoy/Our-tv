@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/fr.png" team2-logo="https://flagcdn.com/w160/es.png" tournament="FIFA WORLDCUP 2026" match-time="2026-07-15T01:00:00" backup-url="https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8", FRANCE vs SPAIN
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/fr.png" team2-logo="https://flagcdn.com/w160/es.png" tournament="FIFA WORLDCUP 2026" match-time="2026-07-14T02:35:00" backup-url="https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8", FRANCE vs SPAIN
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-2 tvg-logo="https://flagcdn.com/w160/ar.png" team2-logo="https://flagcdn.com/w160/gb.png" tournament="FIFA WORLDCUP 2026" match-time="2026-07-16T01:00:00" backup-url="https://hls.autopo.st/hls/britasiatv/index.m3u8|https://hls.autopo.st/hls/britasiatv/index.m3u8", ARGENTINA vs ENGLAND
 https://hls.afintl.com/hls/stream.m3u8
